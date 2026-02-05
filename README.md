@@ -10,3 +10,8 @@ endpoint :
 ...
 127.0.0.1:5000/v{n}/hello-world
 ```
+
+example : 
+
+![](./img/1.png)
+![](./img/2.png)
